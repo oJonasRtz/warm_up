@@ -1,0 +1,5 @@
+Cenario 7 - Marcando itens na régua
+
+B) Continuaria com a avaliação para verificar como os outros itens se comportam e
+seguiria com a troca, deixando como incorretos os próximos itens que funcionarem.
+
